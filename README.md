@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=2F81F7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=IoNiCx1&label=Profile%20Views&color=2F81F7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/IoNiCx1?label=Followers&style=flat&color=2F81F7" alt="followers" />
 </p>
 
 ---
@@ -35,16 +35,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IoNiCx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IoNiCx1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IoNiCx1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IoNiCx1&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ---
@@ -52,10 +52,10 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/IoNiCx1/IoNiCx1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> To make this snake animation work, add the GitHub Action below to a repo named exactly `YOUR_USERNAME` (a special repo — see setup notes at the bottom).
+> To make this snake animation work, add the GitHub Action below to a repo named exactly `IoNiCx1` (a special repo — see setup notes at the bottom).
 
 ---
 
@@ -117,7 +117,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IoNiCx1&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ from <b>YOUR_USERNAME</b></i></p>
+<p align="center"><i>Thanks for stopping by! ⭐ from <b>IoNiCx1</b></i></p>
