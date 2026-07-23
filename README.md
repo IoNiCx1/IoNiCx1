@@ -1,67 +1,79 @@
 <h1 align="center">
-  console.log("Hi, I'm IoNiCx1 👋");
+  model.fit(IoNiCx1, epochs=∞)
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=sudo+make+me+a+sandwich;Student+by+day%2C+debugger+by+night;99+little+bugs+in+the+code...;Compiling+personality...+99%25;Coffee.exe+has+stopped+working" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Training...+loss+not+decreasing;99%25+of+my+models+overfit;pip+install+hopes+and+dreams;CUDA+out+of+memory+(again);Just+one+more+epoch+I+swear" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IoNiCx1&label=Times%20People%20Got%20Lost%20Here&color=2F81F7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Compiling...-brightgreen?style=flat" alt="status" />
-  <img src="https://img.shields.io/badge/Bugs%20Fixed-1-red?style=flat" alt="bugs" />
-  <img src="https://img.shields.io/badge/Bugs%20Created-12-orange?style=flat" alt="bugs created" />
+  <img src="https://komarev.com/ghpvc/?username=IoNiCx1&label=Times%20The%20Model%20Diverged&color=2F81F7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Status-Training...-brightgreen?style=flat" alt="status" />
+  <img src="https://img.shields.io/badge/GPU-Poor-red?style=flat" alt="gpu poor" />
+  <img src="https://img.shields.io/badge/Validation%20Loss-still%20going%20up-orange?style=flat" alt="loss" />
 </p>
 
 ---
 
-### 🎓 About Me (compiled from `me.py`)
+### 🧠 About Me (loaded from `model_card.yaml`)
 
 ```python
-class Me:
+class IoNiCx1(nn.Module):
     def __init__(self):
-        self.name = "IoNiCx1"
-        self.role = "Student trying to graduate before Stack Overflow goes down"
-        self.currently_learning = "whatever Stack Overflow tells me to"
-        self.hobbies = ["writing code", "writing music", "writing bug reports (to myself)"]
-        self.debugging_method = "print('here1'), print('here2'), print('WHY')"
-        self.favorite_error = "It works on my machine ¯\\_(ツ)_/¯"
+        super().__init__()
+        self.role = "ML student, professional overfitter"
+        self.currently_learning = "why my loss curve looks like a heartbeat monitor"
+        self.hobbies = ["training models", "making music", "blaming the data"]
+        self.debugging_method = "print(tensor.shape) x47"
+        self.favorite_excuse = "it's not a bug, it's a local minimum"
 
-    def status(self):
-        return "🎧 headphones on, IDE open, deadline ignored"
+    def forward(self, coffee):
+        return "mostly working code" if coffee > 2 else "NaN"
 
-me = Me()
-print(me.status())
+model = IoNiCx1()
+print(model.forward(coffee=3))
 ```
 
-- 🎧 Currently vibing to a playlist that's 90% lo-fi and 10% questionable life choices
-- 🐛 I don't always test my code, but when I do, I do it in production
-- 📚 Studying hard-ish. Somewhere between "attending lectures" and "watching lecture recordings at 2x speed at 3am"
-- 🎼 Side quest: making music instead of finishing assignments (efficient use of procrastination)
-- ☕ Fun fact: my code works ~80% of the time, every time
+- 🧪 Currently training models that are either 100% accurate or completely broken — no in-between
+- 📉 My loss function and my sleep schedule have an inverse relationship
+- 🎧 Debugging soundtrack: lo-fi beats, because the model definitely isn't the only thing that needs to chill
+- 🎼 Side quest: making music between epochs (best ideas happen while waiting for training to finish)
+- ☕ Fun fact: I've said "just let it train overnight" more times than I've actually let it train overnight
 
 ---
 
-### 🎲 Roll the Dice — What Am I Doing Right Now?
+### 🎲 Roll the Dice — What's My Model Doing Right Now?
 
 <div align="center">
 
 | Roll | Result |
 |:---:|:---|
-| 🎵 1–2 | Making music, forgot I had homework |
-| 🐞 3–4 | Fixing a bug I created five minutes ago |
-| ☕ 5 | Refactoring code that already worked |
-| 😴 6 | Asleep on the keyboard, `asdkjfhasjkdhf` committed to main |
+| 📈 1–2 | Overfitting the training set beautifully, generalizing to nothing |
+| 💥 3–4 | `CUDA out of memory` — batch size regrets |
+| 🔁 5 | Stuck in a local minimum, refusing to leave |
+| 😴 6 | Still "training" — I forgot to check on it since Tuesday |
 
 </div>
 
 ---
 
-### 🛠️ My Stack (a.k.a. Things I Google Constantly)
+### 🛠️ My Stack (a.k.a. My Import Statements)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css,git,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jupyter,git,vscode,cpp" alt="tech stack" />
 </p>
+
+<details>
+<summary>📦 What's actually in requirements.txt</summary>
+<br>
+
+- `numpy` — for math I pretend to understand
+- `pandas` — for data I pretend is clean
+- `torch` / `tensorflow` — pick a fighter
+- `matplotlib` — for loss curves I stare at like tea leaves
+- `scikit-learn` — when I want results *today*, not after 6 hours of training
+
+</details>
 
 <details>
 <summary>🎹 Bonus Stack: My Music Setup</summary>
@@ -76,7 +88,7 @@ print(me.status())
 
 ---
 
-### 📊 GitHub Stats (Proof I Occasionally Touch Code)
+### 📊 GitHub Stats (Proof I Occasionally Leave Jupyter)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IoNiCx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
@@ -99,21 +111,32 @@ print(me.status())
   <img src="https://raw.githubusercontent.com/IoNiCx1/IoNiCx1/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-> Snake setup instructions are at the bottom for whoever's brave enough to try.
+> Fitting, since it's basically the only model here that reliably converges. Setup instructions at the bottom.
 
 ---
 
 ### 📌 Things I'll Only Admit Under `<details>`
 
 <details>
-<summary>💻 My actual coding process</summary>
+<summary>🧪 My actual ML workflow</summary>
 <br>
 
-1. Have a great idea at 2am
-2. Open laptop, immediately get distracted by a YouTube tutorial
-3. Copy-paste from Stack Overflow
-4. It works — no idea why
-5. Never touch that function again
+1. Read the paper (skim the abstract, trust the vibes)
+2. Copy someone's GitHub repo
+3. Change one hyperparameter
+4. Claim it as "my architecture"
+5. It works — reviewer 2 will never know
+
+</details>
+
+<details>
+<summary>📉 My relationship with hyperparameter tuning</summary>
+<br>
+
+- Learning rate: pick a random power of 10, pray
+- Batch size: whatever fits before CUDA yells at me
+- Epochs: "a lot", exact number lost to time
+- Random seed: 42, obviously, I'm not a monster
 
 </details>
 
@@ -121,23 +144,11 @@ print(me.status())
 <summary>🎵 My music-making process</summary>
 <br>
 
-1. Open DAW with big plans
+1. Open DAW while model trains in the background
 2. Make one (1) beat
-3. Get distracted, go fix "just one small bug"
-4. Return 4 hours later, beat still unfinished
+3. Check on training — loss went up, mild crisis
+4. Return to beat, forget training exists
 5. Repeat forever
-
-</details>
-
-<details>
-<summary>📚 My study process</summary>
-<br>
-
-- Step 1: Open notes
-- Step 2: Reorganize notes instead of reading them
-- Step 3: Convince self that color-coding is "studying"
-- Step 4: Panic 12 hours before deadline
-- Step 5: Somehow it's fine
 
 </details>
 
@@ -145,15 +156,15 @@ print(me.status())
 <summary>🏆 Achievements Unlocked</summary>
 <br>
 
-- 🥇 Survived group projects with zero group participation
-- 🥈 Fixed a bug by adding a semicolon and crying tears of joy
-- 🥉 Successfully explained to family what "coding" actually is (mostly)
+- 🥇 Got 99% training accuracy and 51% validation accuracy in the same run
+- 🥈 Successfully explained "overfitting" using a food analogy at a family dinner
+- 🥉 Trained a model for 6 hours only to realize I forgot to normalize the data
 
 </details>
 
 ---
 
-### 🌐 Find Me Elsewhere (Send Memes)
+### 🌐 Find Me Elsewhere (Send Papers or Memes)
 
 <p align="left">
   <a href="https://YOUR_SPOTIFY_OR_SOUNDCLOUD_LINK" target="_blank">
@@ -165,6 +176,9 @@ print(me.status())
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -174,5 +188,5 @@ print(me.status())
 </p>
 
 <p align="center">
-  <i>Thanks for scrolling this far. Here's a cookie 🍪. Now go touch grass (or write more code, your call).</i>
+  <i>Thanks for scrolling this far. Loss decreased by reading this README. Now go check on your training run.</i>
 </p>
